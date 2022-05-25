@@ -1,0 +1,13 @@
+3
+1a 1b 1h b3 2c a2 52 4b 4a 14 
+a8 7a 78 b7 38 a3 6b 6a 6h 5h 
+b1 a1 3b 3a 3h ch 3c a3 c3 16 
+1a 1h 3h a1 41 b3 3c 3a 3b 3h 
+4h b7 a7 c7 5b 5a 5h 5h b5 15 
+5c 5h 5h 4b 41 1h ch ah bh 3h 
+71v5 7c 7a 73 ah 27v3 2h 2h 2b 52 
+25v2 56 38 47 65v6 6a 63 c4 b4 13 
+86v6 8b 8c 81 ch 1h 5h 3h 5h 3h 
+2h 5h 3h 8h 6h 5h 3h 6h 7h 5h 
+3h 4h 6h 7h 5h 3h 4h 6h 7h bh 
+ah 8h 6h 7h 6h 
