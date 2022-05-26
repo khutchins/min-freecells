@@ -1,0 +1,11 @@
+2
+4a 4h 8h 1h 8h 8h 36 8b 84 81 
+a8 28 61 2a 2h 2h a6 82 6a 68 
+6h ah 5a 85 a8 7a 78 61 74 71 
+7h b7 6b 6h a6 3a 36 3h ah 3a 
+38 3h 51 56 a3 53 b5 24 2h 52 
+27 45v6 4h 4a 4b 42 26 86 13 14 
+12 18 8h 1h 3h bh 4h 3h 6h 3h 
+ah 1h 2h 6h 3h 5h 6h 3h 5h 7h 
+6h 3h 5h 7h 6h 3h 5h 7h 6h 3h 
+5h 7h 6h 3h 5h 7h 6h 3h 

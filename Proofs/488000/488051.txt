@@ -1,0 +1,11 @@
+1
+52 21 24 8a 81 8h 2h 2h 83 26 
+58 21 25 36 3h 4h 1h 3h 4h 6h 
+a2 3a 32 72 7h a7 41 53 64 6a 
+56 a8 54 65v2 6h 1h 67 46 48 68 
+6a 16 1h ah 61 46 74 25 7a 7h 
+8h 1h 8h 1h 8h 1h 8h 6h 1h 1h 
+8h 8h a1 16v2 65 1a 16 1h 5h 4h 
+7h 4h 3h 4h 1h a4 41v2 4h 8h 5h 
+3h 4h 7h 8h 6h 5h 1h 2h 3h 5h 
+1h 2h 3h 5h 
