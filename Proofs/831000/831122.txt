@@ -1,0 +1,12 @@
+2
+42 37 51 56 15 1a 15 a8 1b 15 
+15 61v2 15 71v2 7a b7 71 71 21 78 
+6b 67 a6 b6 61 2a 6b 62 b8 21 
+36 32 34 23 2b 27 7h b4 a2 23 
+36 43 34 82v4 8b 8a 86 8h 5h 8h 
+1h 1h a4 42 4a 43 74 3h 5h 5h 
+45 4h 5h 2h 5h 1h 2h bh 5h 1h 
+2h 5h 1h 6h 2h 5h 1h 5h 5h 1h 
+5h 1h 5h 5h 2h 6h 2h 1h 6h 2h 
+ah 6h 2h 1h 6h 2h 1h 6h 2h 5h 
+1h 6h 5h 2h 
