@@ -2,13 +2,19 @@
 
 This is an attempt to get the minimum number of free cells to beat each of the million Microsoft deals. Currently it's just a list of proofs for each of the computations I've made so far, with a list coming later once I've finished running the solver on all million of them.
 
-This is not an exact value, but an upper bound on the number of free cells. It's likely that the solver, especially for the iteration limit I set, has not found the actual minimums in all cases.
+This is not an exact value, but an upper bound on the number of free cells. It's likely that the solver, especially for the iteration limit I set, has not found the actual minimums in all cases.*
+
+* As a matter of fact, I know that it's not ideal, as deal #739671 is marked as requiring 5 cells. I don't want to explicitly correct that deal, as it serves as a good barometer as to how close I am to getting that target.
 
 ## How they were generated
 
-The initial set of deals were generated using the excellent [FreeCell Solver](https://github.com/shlomif/fc-solve) program. It was used with the looking-glass algorithm and 200000 max iterations.
+The initial set of deals were generated using the excellent [FreeCell Solver](https://github.com/shlomif/fc-solve) program. So far, I've used the following configurations:
 
-Specifically, the arguments used for the deal program were `-m -sn -l looking-glass -mi 200000` along with `--freecells-num {num}` for whichever one I was testing.
+* `-m -snx -l looking-glass -mi 200000`
+* `-m -snx -l looking-glass -mi 400000`
+* `-m -snx -mi 200000`
+
+Additionally, the number of free cells argument (`--freecells-num {num}`) was appended for the current cell I was testing.
 
 ## Why
 
