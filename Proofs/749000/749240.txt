@@ -1,14 +1,11 @@
-3
-2h 1h 3a 7b 7c 73 ch 73 4c 74 
-7h 6h 17 16 71 53 45 a4 1a 17 
-21 2h a7 2a c2 27 2c 23 c8 15 
-15 36 3c 32 35 3h c1 a1 4a 4c 
-43 47 4h 5h 5h 6h 26 41 c2 a2 
-84v2 8a 83 5c 5h ah 1h 2h 13 8a 
-81 28 14 32 3h 81 8h 38 3h b3 
-83 53 5h 45 73 56 5h 6h 3h 6b 
-6h 38 3h 3h c3 6c 6h 6h a6 3a 
-34 3h a4 45 53 67v7 6a 64 65 6h 
-bh 8h ch 3h 7h 3h 7h 4h 2h 3h 
-7h 3h 7h 3h 7h 1h 5h 3h 7h 3h 
-7h ah 3h 
+2
+2h 1h 64 6a 6b 63 67 64 56 57 
+85 68 83 26 2h 4h 27 26 2h 23 
+b2 1b 12 b1 53 4b 4h 5h 5h 61 
+6h 46 42 84 8h 8h 5h a5 85 48v2 
+4h 4a 47 a3 78 74v2 7h 3h 3h 7h 
+1h 6h 76 25 7a 7h bh 17v2 18 17 
+36 35 31v2 34 3b 37 3h 7h 6h bh 
+7h 6h 8h 7h 6h 8h 5h 7h 6h 8h 
+5h ah 1h 8h 5h 1h 4h 8h 5h 4h 
+2h 8h 5h 4h 2h 8h 5h 
