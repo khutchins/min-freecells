@@ -1,10 +1,10 @@
 # Min FreeCells
 
-This is an attempt to get the minimum number of free cells to beat each of the million Microsoft deals. Currently it's just a list of proofs for each of the computations I've made so far, with a list coming later once I've finished running the solver on all million of them.
+This is an attempt to get the minimum number of free cells to beat each of the million Microsoft deals. Currently it's just a list of proofs for each of the computations I've made so far, with a list that lists all the results, one per line.
 
 This is not an exact value, but an upper bound on the number of free cells. It's likely that the solver, especially for the iteration limit I set, has not found the actual minimums in all cases.*
 
-* As a matter of fact, I know that it's not ideal, as deal #739671 is marked as requiring 5 cells. I don't want to explicitly correct that deal, as it serves as a good barometer as to how close I am to getting that target.
+\* As a matter of fact, I know that it's not ideal, as deal #739671 is marked as requiring 5 cells. I don't want to explicitly correct that deal, as it serves as a good barometer as to how close I am to getting that target.
 
 ## How they were generated
 
