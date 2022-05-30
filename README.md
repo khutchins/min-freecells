@@ -4,15 +4,16 @@ This is an attempt to get the minimum number of free cells to beat each of the m
 
 This is not an exact value, but an upper bound on the number of free cells. It's likely that the solver, especially for the iteration limit I set, has not found the actual minimums in all cases.*
 
-\* As a matter of fact, I know that it's not ideal, as deal #739671 is marked as requiring 5 cells. I don't want to explicitly correct that deal, as it serves as a good barometer as to how close I am to getting that target.
+\* The most recent iteration that I ran brought the last deal that I knew to be non-optimal (#739671 requiring 5 cells) down to 4 cells. It's incredibly unlikely that all million are at their true minimums. If you have a solution that requires less free cells, feel free to send a pull request. Please validate it using my set of tools (linked below) first though.
 
 ## How they were generated
 
-The initial set of deals were generated using the excellent [FreeCell Solver](https://github.com/shlomif/fc-solve) program. So far, I've used the following configurations:
+The initial set of deals were generated using the excellent [FreeCell Solver](https://github.com/shlomif/fc-solve) program (automated using [my set of tools](https://github.com/khutchins/min-freecells-automator)). So far, I've used the following configurations:
 
 * `-m -snx -l looking-glass -mi 200000`
 * `-m -snx -l looking-glass -mi 400000`
 * `-m -snx -mi 200000`
+* `-m -snx -l slick-rock -mi 1500000`
 
 Additionally, the number of free cells argument (`--freecells-num {num}`) was appended for the current cell I was testing.
 
